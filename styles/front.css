@@ -18,7 +18,7 @@ nav ul{
 nav ul li{
     display: inline;
     list-style: none;
-    margin-right: 70px; 
+    margin-right: 40px; 
     font-size: 20px;  
 }
 
@@ -99,7 +99,9 @@ ul li a:hover{
     width: 250px;
     height: 300px;
     text-align: center;
+    ::-webkit-input-placeholder { color: white;}
 }
+
 
 .log-title{
     color: rgb(239, 124, 8);
